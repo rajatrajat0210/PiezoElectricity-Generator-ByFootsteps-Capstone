@@ -1,6 +1,8 @@
 **Piezoelectric Energy Harvesting System**
-![video alt](https://github.com/user-attachments/assets/9f7f31aa-3cdb-4cb3-ba1b-2e91e8c1a61d)
 
+Piezo Sensor Generation Through FootsSteps Video Down Below Link:-
+
+https://github.com/user-attachments/assets/9f7f31aa-3cdb-4cb3-ba1b-2e91e8c1a61d
 ![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/wiring_schematic.jpg?raw=true)
 ![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/cad_model.jpg?raw=true)
 ![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/cad_model2.jpg?raw=true)
@@ -11,7 +13,6 @@
 Our project explores renewable energy solutions by leveraging piezoelectric technology and force to generate power from vibrations and direct force. Through dedicated research and development, we have engineered a system capable of converting mechanical energy into electrical power and storing it for subsequent use.
 
 **Development Journey**
-
 **Alpha Release**
 
 Provided valuable insights into system performance and areas for improvement.
