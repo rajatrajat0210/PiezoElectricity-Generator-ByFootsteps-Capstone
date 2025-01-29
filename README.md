@@ -1,8 +1,8 @@
 **Piezoelectric Energy Harvesting System**
-![image alt]()
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/wiring_schematic.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/cad_model.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/cad_model2.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/PiezoElectricity-Generator-ByFootsteps-Capstone/blob/main/Final_model.jpg?raw=true)
 ![image alt]()
 
 **Overview**
