@@ -1,7 +1,45 @@
-In the pursuit of renewable energy solutions, our project focuses on leveraging piezoelectric and force to generate power from vibrations and direct force. Through dedicated research and development efforts, we have engineered a system capable of converting mechanical energy into electrical power and storing it for subsequent use.
-Our journey towards the final release has been characterised by iterative refinement and learning. The initial alpha release provided valuable insights, revealing the need for optimization, particularly in enhancing power generation efficiency through a greater number of . This phase served as a foundation for understanding the complexities of piezoelectric energy harvesting and refining our approach accordingly.
-Building upon the lessons learned from the alpha release, the development of our final release represents a notable step forward in capability and performance. By increasing the number of , we have improved the pace of power generation, albeit within limitations that surfaced during testing. This enhancement holds promise for applications with moderate power demands.
-A notable achievement in our final release is the capability to charge a higher voltage battery, expanding the potential applications of the system. Integration of an active transformer has further elevated the output voltage, albeit within constraints that emerged during testing, reaching levels between 210 to 220 volts. However, despite these advancements, the system still faces challenges in fulfilling higher current requirements, limiting its ability to generate ample power.
-The implications of our project extend beyond technological innovation to encompass the exploration of sustainable energy sources. By tapping into mechanical energy from ambient sources, we aim to offer an alternative to traditional power generation methods. However, we acknowledge the current limitations in meeting higher power demands.
-Moving forward, our focus remains on enhancing the efficiency, reliability, and scalability of piezoelectric energy harvesting technology. We recognize the need for further optimizations to address current limitations and are committed to exploring new avenues for integration and application.
-In conclusion, our project represents progress in the field of energy harvesting, albeit with an awareness of the limitations and challenges encountered. While our final release demonstrates advancements in certain aspects of power generation and storage, it also underscores the need for continued innovation and refinement to realise the full potential of piezoelectric in driving sustainable energy solutions
+Piezoelectric Energy Harvesting System
+
+Overview
+
+Our project explores renewable energy solutions by leveraging piezoelectric technology and force to generate power from vibrations and direct force. Through dedicated research and development, we have engineered a system capable of converting mechanical energy into electrical power and storing it for subsequent use.
+
+Development Journey
+
+Alpha Release
+
+Provided valuable insights into system performance and areas for improvement.
+
+Identified the need for optimization, particularly in enhancing power generation efficiency.
+
+Served as a foundation for understanding piezoelectric energy harvesting complexities.
+
+Final Release
+
+Increased the number of piezoelectric elements, improving power generation efficiency.
+
+Integrated an active transformer to elevate output voltage to approximately 210-220 volts.
+
+Enhanced system capability to charge a higher voltage battery.
+
+Despite advancements, system still faces limitations in meeting higher current requirements.
+
+Key Achievements
+
+Demonstrated progress in piezoelectric energy harvesting for moderate power demands.
+
+Successfully converted mechanical energy from ambient sources into usable electrical power.
+
+Expanded potential applications through improved voltage output.
+
+Challenges & Future Improvements
+
+Current system struggles to meet higher current requirements.
+
+Further optimizations needed to improve efficiency, reliability, and scalability.
+
+Exploration of new avenues for integration and application remains a priority.
+
+Conclusion
+
+This project represents a step forward in energy harvesting technology, showcasing advancements in power generation and storage while acknowledging existing limitations. Continuous innovation and refinement will be crucial in realizing the full potential of piezoelectric technology for sustainable energy solutions.
